@@ -359,7 +359,7 @@ export default function AdminPage() {
         <div className="flex items-center justify-between mb-6 flex-wrap gap-3">
           <div className="flex items-center gap-2.5">
             <div className="w-2 h-2 rounded-full bg-blue-500" />
-            <span className="text-sm font-medium text-slate-500 tracking-wide">madesign</span>
+            <span className="text-sm font-medium text-slate-500 tracking-wide">Madesign</span>
           </div>
           <div className="flex items-center gap-2">
             <span className="text-xs px-3 py-1 rounded-full bg-white border border-slate-200 text-slate-500">Dashboard</span>
